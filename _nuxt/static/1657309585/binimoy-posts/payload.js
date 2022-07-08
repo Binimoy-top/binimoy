@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/binimoy-posts", {data:[{}],fetch:{},mutations:[]});
