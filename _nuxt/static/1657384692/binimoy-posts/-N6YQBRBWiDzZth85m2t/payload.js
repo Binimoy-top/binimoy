@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/binimoy-posts/-N6YQBRBWiDzZth85m2t", {data:[{loadedPosts:{PreviewText:"dasdasd",author:"asdsa",content:"asdasd",title:"adsdas"}}],fetch:{},mutations:[]});
