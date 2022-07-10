@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/binimoy-posts/-N6YgQWH-nXf9_essEEr", {data:[{loadedPosts:{PreviewText:"black pink is my life ",author:"Shanta",content:"black pink is very good i like blackpink very much",title:"black pink"}}],fetch:{},mutations:[]});
