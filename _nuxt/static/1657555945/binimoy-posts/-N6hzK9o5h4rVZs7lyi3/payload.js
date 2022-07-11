@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/binimoy-posts/-N6hzK9o5h4rVZs7lyi3", (function(a){return {data:[{loadedPosts:{PreviewText:a,author:a,content:a,id:"-N6hzK9o5h4rVZs7lyi3",title:"dd344343",updatedDate:"2022-07-11T16:01:49.465Z"}}],fetch:{},mutations:[]}}("dddd")));
