@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/binimoy-admin/-N6i6A0RPhlWV-ZRFs-6", {data:[{loadedPosts:{PreviewText:"create and buy miner",author:"zahid",content:"create and buy miner create and buy miner",title:"bitcoin mania",updatedDate:"2022-07-11T16:34:24.500Z",id:"-N6i6A0RPhlWV-ZRFs-6"}}],fetch:{},mutations:[]});

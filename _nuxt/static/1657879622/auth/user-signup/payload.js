@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/auth/user-signup", {data:[{}],fetch:{},mutations:[]});

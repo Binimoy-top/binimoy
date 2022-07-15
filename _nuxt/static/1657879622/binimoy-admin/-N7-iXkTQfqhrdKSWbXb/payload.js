@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/binimoy-admin/-N7-iXkTQfqhrdKSWbXb", {data:[{loadedPosts:{PreviewText:"qweqweqweqweqwe555",author:"qwqw444",content:"qweqweqwdasa5555",id:"-N7-iXkTQfqhrdKSWbXb",title:"qweqwe555",updatedDate:"2022-07-15T07:21:17.247Z"}}],fetch:{},mutations:[]});
